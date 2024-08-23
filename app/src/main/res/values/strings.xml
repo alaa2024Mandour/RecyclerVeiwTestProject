@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResyclarVeiw_Test_App</string>
+    <string name="users">Users</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="language">Change_Language</string>
+    <string name="search">Search</string>
+</resources>
