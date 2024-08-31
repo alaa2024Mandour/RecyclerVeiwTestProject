@@ -1,0 +1,37 @@
+|d\
+|d C:\Users\alaaM\StudioProjects\
+mkdir task_managment
+cd C:\Users\alaaM\StudioProjects\task_managment\
+|it clone https://github.com/alaa2024Mandour/task_managment_app.git
+|d C:\Users\alaaM\StudioProjects\task_managment\task_managment_app
+|it branch
+|it remote
+|it status
+|it add *
+|it status
+git commit -m "initial commit"
+|it status
+|it push origin main 
+cd C:\Users\alaaM\StudioProjects\task_managment\task_managment_app
+cd C:\Users\alaaM\StudioProjects\task_managment\task_managment_app\tasks_app2
+dir
+git commit -m "alaa commit "
+|it branch
+git push origin master 
+reset
+cd\
+cd C:\Users\alaaM\StudioProjects\
+git colon https://github.com/alaa2024Mandour/task_managment_app.git
+git clone https://github.com/alaa2024Mandour/task_managment_app.git
+cd tasks_app2
+\tasks_app2\
+cd \tasks_app2\
+cd tasks_app2\
+cd C:\Users\alaaM\StudioProjects\task_managment_app
+git status
+git add *
+git commit -m "initial commit alaa"
+git branch
+git origin
+git remote
+git push origin main 

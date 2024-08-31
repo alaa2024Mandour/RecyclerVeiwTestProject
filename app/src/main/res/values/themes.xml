@@ -3,4 +3,7 @@
 
     <style name="Theme.ResyclarVeiw_Test_App"
         parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge"/>
+
+     <item name="colorPrimary" type="color">@color/orange</item>
+     <item name="accentColor" type="color">@color/white</item>
 </resources>

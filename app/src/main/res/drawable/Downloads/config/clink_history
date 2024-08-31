@@ -1,0 +1,31 @@
+|CTAG_1708949319_5885343_13524_0
+|d\
+C:\Users\alaaM\Downloads\My-GitHub\Get_Course\
+|it status
+|it push origin main 
+git remote -v
+|it push origin main 
+|d\
+|it clone https://github.com/alaa2024Mandour/save_a_life.git
+cd\C:\Users\alaaM\StudioProjects\
+cd C:\Users\alaaM\StudioProjects
+git clone https://github.com/alaa2024Mandour/save_a_life.git
+|it status
+cd C:\Users\alaaM\StudioProjects\save_a_life\
+|it status
+git add * 
+|it status
+|it push origin main 
+git commit -m "add app structur"
+git status
+git push origin main 
+|it commit "add shared dirictory"
+git commit "add shared dirictory"
+git commit -m "add shared directory"
+git push origin main
+cd\
+cd C:\Users\alaaM\StudioProjects\
+git clone C:\Users\alaaM\StudioProjects\ 
+git clone https://github.com/alaa2024Mandour/Task_Managment_App.git
+git commit -m "initial commit"
+git add *

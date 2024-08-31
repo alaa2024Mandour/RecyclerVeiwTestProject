@@ -1,0 +1,82 @@
+4e20 start_logger              160 ---- 2024/02/26 22:10:13.068 -------------------------------------------------
+4e20 start_logger              166 Host process is 'cmd.exe' (pid 20000)
+4e20 start_logger              170 DLL path is 'C:\Users\alaaM\Downloads\vendor\clink'
+4e20 start_logger              185 Windows version 10.0.19045 (x64)
+4e20 start_logger              187 Clink version 1.5.1.1e9e51 (x64)
+4e20 hook_setter::hook_setter  159 >>> Started hook transaction.
+4e20 hook_setter::attach_iat   316 Attempting to hook SetEnvironmentVariableW in IAT for module 00007FF727540000.
+4e20 pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+4e20 find_iat                  124 Found import at 00007FF727573860 (value is 00007FFF19863490).
+4e20 hook_setter::attach_iat   316 Attempting to hook WriteConsoleW in IAT for module 00007FF727540000.
+4e20 pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+4e20 find_iat                  124 Found import at 00007FF7275734F8 (value is 00007FFF198076D0).
+4e20 hook_setter::attach_iat   316 Attempting to hook GetEnvironmentVariableW in IAT for module 00007FF727540000.
+4e20 pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+4e20 find_iat                  124 Found import at 00007FF727573880 (value is 00007FFF19825430).
+4e20 hook_setter::commit       207 <<< Hook transaction committed.
+4e20 hook_setter::hook_setter  159 >>> Started hook transaction.
+4e20 hook_setter::detach_iat   359 Attempting to unhook 00007FFED938B0F0 from GetEnvironmentVariableW in IAT for module 00007FF727540000.
+4e20 pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+4e20 find_iat                  124 Found import at 00007FF727573880 (value is 00007FFED938B0F0).
+4e20 hook_setter::commit       207 <<< Hook transaction committed.
+4e20 hook_setter::hook_setter  159 >>> Started hook transaction.
+4e20 hook_setter::attach_iat   316 Attempting to hook ReadConsoleW in IAT for module 00007FF727540000.
+4e20 pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+4e20 find_iat                  124 Found import at 00007FF7275734E0 (value is 00007FFF19910AD0).
+4e20 hook_setter::commit       207 <<< Hook transaction committed.
+4e20 hook_setter::hook_setter  159 >>> Started hook transaction.
+4e20 hook_setter::attach_iat   316 Attempting to hook SetConsoleTitleW in IAT for module 00007FF727540000.
+4e20 pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l2-2-0.dll'
+4e20 find_iat                  124 Found import at 00007FF727573558 (value is 00007FFF19876CD0).
+4e20 hook_setter::commit       207 <<< Hook transaction committed.
+4e20 win_screen_buffer::begin  297 Using native terminal support (auto mode found 'ConEmuHk64.dll').
+4e20 reset_handle              144 resetting mismatched stdout handle
+4e20 host_lua::load_scripts    158 Loaded 2 Lua scripts in 139 ms
+4e20 ={update.lua}               0 Clink updater: too soon to check for updates (1708949339 vs 1708978222).
+4e20 history_db::initialise   1264 master bank ctag: |CTAG_1708949319_5885343_13524_0
+4e20 history_db::compact      1526 History:  19 active, 11 deleted
+4e20 history_db::compact      1526 History:  18 active, 12 deleted
+4e20 history_db::compact      1526 History:  17 active, 13 deleted
+4e20 reset_handle              144 resetting mismatched stdout handle
+4e20 history_db::compact      1526 History:  17 active, 13 deleted
+4e20 history_db::compact      1526 History:  17 active, 13 deleted
+4e20 reset_handle              144 resetting mismatched stdout handle
+4e20 history_db::compact      1526 History:  17 active, 13 deleted
+4e20 history_db::compact      1526 History:  17 active, 13 deleted
+4e20 reset_handle              144 resetting mismatched stdout handle
+4e20 reset_handle              144 resetting mismatched stderr handle
+4e20 history_db::compact      1526 History:  17 active, 13 deleted
+4e20 history_db::compact      1526 History:  17 active, 13 deleted
+4e20 history_db::compact      1526 History:  16 active, 14 deleted
+4e20 history_db::compact      1526 History:  15 active, 15 deleted
+4e20 reset_handle              144 resetting mismatched stdout handle
+4e20 history_db::compact      1526 History:  15 active, 15 deleted
+4e20 history_db::compact      1526 History:  14 active, 16 deleted
+4e20 history_db::compact      1526 History:  14 active, 16 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 reset_handle              144 resetting mismatched stdout handle
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
+4e20 history_db::compact      1526 History:  13 active, 17 deleted
