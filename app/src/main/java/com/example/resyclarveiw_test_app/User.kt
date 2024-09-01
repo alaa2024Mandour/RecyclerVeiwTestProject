@@ -1,3 +1,3 @@
 package com.example.resyclarveiw_test_app
 
-class User (var name:String, var email:String)
+class User (var name:String, var email:String, var type:Int)

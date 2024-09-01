@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResyclarVeiw_Test_App</string>
+    <string name="users">المستخدمين</string>
+    <string name="settings">الاعدادات</string>
+    <string name="profile">الحساب</string>
+    <string name="language">تغير اللغه</string>
+    <string name="search">البحث</string>
+    <string name="profile_clicked">Profile Clicked</string>
+    <string name="settings_clicked">Setting Clicked</string>
+    <string name="language_clicked">Language Clicked</string>
+    <string name="search_clicked">Search Clicked</string>
+    <string name="home">الرئيسيه</string>
+    <string name="gallery">المعرض</string>
+    <string name="slideShow">جدول العرض</string>
+    <string name="favorites">المفضه</string>
+    <string name="fab_clicked">Floating Action Button Clicked</string>
+</resources>

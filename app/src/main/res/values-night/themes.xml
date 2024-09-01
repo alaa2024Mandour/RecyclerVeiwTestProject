@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ResyclarVeiw_Test_App"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge"/>
+
+    <item name="colorPrimary" type="color">@color/white</item>
+    <item name="accentColor" type="color">@color/white</item>
+</resources>

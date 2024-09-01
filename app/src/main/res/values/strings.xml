@@ -5,4 +5,13 @@
     <string name="profile">Profile</string>
     <string name="language">Change_Language</string>
     <string name="search">Search</string>
+    <string name="profile_clicked">Profile Clicked</string>
+    <string name="settings_clicked">Setting Clicked</string>
+    <string name="language_clicked">Language Clicked</string>
+    <string name="search_clicked">Search Clicked</string>
+    <string name="home">Home</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideShow">Slide Show</string>
+    <string name="favorites">Favorites</string>
+    <string name="fab_clicked">Floating Action Button Clicked</string>
 </resources>
